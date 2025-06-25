@@ -1,7 +1,7 @@
 # E-commerce Empresa X
 
 Este é um projeto para **Empresa X**, feito em *PHP e MySQL*
-Este é um projeto para **Empresa X**, feito em *PHP e MySQL*
+
 
 ## Funcionalidades:
 
@@ -15,6 +15,12 @@ Melhoria 1, Melhoria 2, Melhoria 3
 
 *Esse é um texo em italico*
 
-**Esse é um texto em negrito**
+### Linguagens do projeto:
 
-*Esse é um texo em italico*
+* HTML
+* CSS
+* JavaScript
+* PHP
+* MySQL
+
+
