@@ -31,7 +31,7 @@ Melhoria 1, Melhoria 2, Melhoria 3
 
 ### Imagem local
 
-![Logo Maruzam](img/logo_maruzam_pequena.png)
+![Logo Maruzam](img/logo_maruzam_160.png)
 
 ### links
 
