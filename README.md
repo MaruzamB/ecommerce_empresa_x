@@ -41,4 +41,12 @@ Melhoria 1, Melhoria 2, Melhoria 3
 
 [![Logo Maruzam](img/logo_maruzam_100.png)](https://github.com/MaruzamB)
 
+## Código da função soma
+
+```javascript
+function soma(a, b){
+    return a + b
+}
+```
+
 
