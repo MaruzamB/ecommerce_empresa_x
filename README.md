@@ -1,4 +1,4 @@
-# ecommerce_empresa_x
+# E-commerce Empresa X
 
 Este é um projeto para empresa X, feito em PHP e MySQL
 
