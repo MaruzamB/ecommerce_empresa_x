@@ -37,4 +37,8 @@ Melhoria 1, Melhoria 2, Melhoria 3
 
 [Google](https://www.google.com)
 
+### Link com imagem
+
+[![Logo Maruzam](img/logo_maruzam_100.png)]https://github.com/MaruzamB
+
 
