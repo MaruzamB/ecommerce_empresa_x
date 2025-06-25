@@ -7,7 +7,7 @@ Este é um projeto para **Empresa X**, feito em *PHP e MySQL*
 
 Checkout, tela de produto, Catálago, Home com Banner
 
-###### Melhorias do projeto
+###### Melhorias do projeto:
 
 Melhoria 1, Melhoria 2, Melhoria 3
 
